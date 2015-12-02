@@ -1,0 +1,91 @@
+bad_po_in_disrib
+[]
+bad_po_in_etalon
+[]
+==============================
+sale_order_dates
+Percent translate my work= 87
+Total UNTRANSLATED items my work= 1
+Total items my work= 8
+Last-Translator my work= FULL NAME <EMAIL@ADDRESS>
+*
+Percent translate 7 distrib= 87
+Total UNTRANSLATED items 7 distrib= 1
+Total items 7 distrib= 8
+Last-Translator 7 distrib= FULL NAME <EMAIL@ADDRESS>
+*
+Percent translate master= 50
+Total UNTRANSLATED items master= 5
+Total items master= 18
+Last-Translator master= Chertykov Denis <chertykov@gmail.com>
+*
+Percent translate saas= 50
+Total UNTRANSLATED items saas= 5
+Total items saas= 18
+Last-Translator saas= Chertykov Denis <chertykov@gmail.com>
+*
+
+==============================
+sale
+Percent translate my work= 96
+Total UNTRANSLATED items my work= 12
+Total items my work= 341
+Last-Translator my work= Sergey Dementiev <sde@arterp.ru>
+*
+Percent translate 7 distrib= 90
+Total UNTRANSLATED items 7 distrib= 34
+Total items 7 distrib= 344
+Last-Translator 7 distrib= Denis Karataev <dskarataev@gmail.com>
+*
+Percent translate master= 92
+Total UNTRANSLATED items master= 26
+Total items master= 649
+Last-Translator master= Chertykov Denis <chertykov@gmail.com>
+*
+Percent translate saas= 92
+Total UNTRANSLATED items saas= 26
+Total items saas= 649
+Last-Translator saas= Chertykov Denis <chertykov@gmail.com>
+*
+==============================
+event_sale
+==============================
+portal_sale
+Percent translate my work= 0
+Total UNTRANSLATED items my work= 23
+Total items my work= 23
+Last-Translator my work= <>
+*
+Percent translate master= 95
+Total UNTRANSLATED items master= 1
+Total items master= 23
+Last-Translator master= FULL NAME <EMAIL@ADDRESS>
+*
+Percent translate saas= 95
+Total UNTRANSLATED items saas= 1
+Total items saas= 23
+Last-Translator saas= FULL NAME <EMAIL@ADDRESS>
+*
+==============================
+point_of_sale
+Percent translate my work= 16
+Total UNTRANSLATED items my work= 556
+Total items my work= 665
+Last-Translator my work= Denis Karataev <dskarataev@gmail.com>
+*
+Percent translate 7 distrib= 15
+Total UNTRANSLATED items 7 distrib= 568
+Total items 7 distrib= 675
+Last-Translator 7 distrib= Denis Karataev <dskarataev@gmail.com>
+*
+Percent translate master= 16
+Total UNTRANSLATED items master= 555
+Total items master= 765
+Last-Translator master= Olga <chikiro.spam@gmail.com>
+*
+Percent translate saas= 16
+Total UNTRANSLATED items saas= 555
+Total items saas= 765
+Last-Translator saas= Olga <chikiro.spam@gmail.com>
+*
+==============================
